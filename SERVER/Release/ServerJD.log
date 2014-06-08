@@ -1,0 +1,19 @@
+﻿Build started 6/7/2014 9:58:39 PM.
+     1>Project "E:\Sandbox\cs260\CS260_ALL\cs260su10a03_maximilian.manndorff_justin.dodson\SERVER\ServerJD.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Sandbox\cs260\CS260_ALL\cs260su10a03_maximilian.manndorff_justin.dodson\SERVER\Release\ServerJD.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Sandbox\cs260\CS260_ALL\cs260su10a03_maximilian.manndorff_justin.dodson\SERVER\Release\ServerJD.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Sandbox\cs260\CS260_ALL\cs260su10a03_maximilian.manndorff_justin.dodson\SERVER\Release\ServerJD.lib" /MACHINE:X86 /SAFESEH Release\clientThread.obj
+         Release\commandScan.obj
+         Release\Files.obj
+         Release\main.obj
+         Release\notMain.obj
+         Release\utilities.obj
+     1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+         ServerJD.vcxproj -> E:\Sandbox\cs260\CS260_ALL\cs260su10a03_maximilian.manndorff_justin.dodson\SERVER\Release\ServerJD.exe
+     1>Done Building Project "E:\Sandbox\cs260\CS260_ALL\cs260su10a03_maximilian.manndorff_justin.dodson\SERVER\ServerJD.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.33
